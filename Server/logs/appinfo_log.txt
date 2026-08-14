@@ -1,0 +1,1050 @@
+
+
+[2025-08-23 09:33:39] Client version: no bootstrapper found
+[2025-08-23 09:33:39] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 09:33:39] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 09:33:39] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 09:36:01] Client version: no bootstrapper found
+[2025-08-23 09:36:01] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 09:36:01] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 09:36:01] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 09:37:48] Client version: no bootstrapper found
+[2025-08-23 09:37:48] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 09:37:48] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 09:37:48] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 09:40:54] Client version: no bootstrapper found
+[2025-08-23 09:40:54] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 09:40:54] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 09:40:54] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 09:43:19] Client version: no bootstrapper found
+[2025-08-23 09:43:19] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 09:43:19] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 09:43:19] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 09:53:16] Client version: no bootstrapper found
+[2025-08-23 09:53:16] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 09:53:16] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 09:53:16] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 09:57:19] Client version: no bootstrapper found
+[2025-08-23 09:57:19] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 09:57:19] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 09:57:19] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 10:02:55] Client version: no bootstrapper found
+[2025-08-23 10:02:55] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 10:02:55] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 10:02:55] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 10:04:41] Client version: no bootstrapper found
+[2025-08-23 10:04:41] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 10:04:41] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 10:04:41] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 10:05:36] Client version: no bootstrapper found
+[2025-08-23 10:05:36] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 10:05:36] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 10:05:36] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 10:08:24] Client version: no bootstrapper found
+[2025-08-23 10:08:24] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 10:08:24] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 10:08:24] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 10:17:37] Client version: no bootstrapper found
+[2025-08-23 10:17:37] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 10:17:37] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 10:17:37] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 12:26:00] Client version: no bootstrapper found
+[2025-08-23 12:26:00] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 12:26:00] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 12:26:00] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 12:31:30] Client version: no bootstrapper found
+[2025-08-23 12:31:30] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 12:31:30] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 12:31:30] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 12:34:36] Client version: no bootstrapper found
+[2025-08-23 12:34:36] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 12:34:36] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 12:34:36] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 12:35:48] Client version: no bootstrapper found
+[2025-08-23 12:35:48] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 12:35:48] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 12:35:48] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 12:41:09] Client version: no bootstrapper found
+[2025-08-23 12:41:09] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 12:41:09] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 12:41:09] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 12:52:52] Client version: no bootstrapper found
+[2025-08-23 12:52:52] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 12:52:52] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 12:52:52] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 13:01:05] Client version: no bootstrapper found
+[2025-08-23 13:01:05] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 13:01:05] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 13:01:05] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 13:22:40] Client version: no bootstrapper found
+[2025-08-23 13:22:40] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 13:22:40] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 13:22:40] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 13:42:39] Client version: no bootstrapper found
+[2025-08-23 13:42:39] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 13:42:39] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 13:42:39] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 13:55:19] Client version: no bootstrapper found
+[2025-08-23 13:55:19] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 13:55:19] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 13:55:19] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 14:02:16] Client version: no bootstrapper found
+[2025-08-23 14:02:16] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 14:02:16] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 14:02:16] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 15:36:38] Client version: no bootstrapper found
+[2025-08-23 15:36:38] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 15:36:38] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 15:36:38] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 15:46:47] Client version: no bootstrapper found
+[2025-08-23 15:46:47] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 15:46:47] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 15:46:47] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 15:57:15] Client version: no bootstrapper found
+[2025-08-23 15:57:15] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 15:57:15] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 15:57:15] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 16:10:26] Client version: no bootstrapper found
+[2025-08-23 16:10:26] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 16:10:26] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 16:10:26] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 16:43:33] Client version: no bootstrapper found
+[2025-08-23 16:43:33] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 16:43:33] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 16:43:33] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 16:57:16] Client version: no bootstrapper found
+[2025-08-23 16:57:16] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 16:57:16] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 16:57:16] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 17:00:15] Client version: no bootstrapper found
+[2025-08-23 17:00:15] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:00:15] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:00:15] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 17:02:44] Client version: no bootstrapper found
+[2025-08-23 17:02:44] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:02:44] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:02:44] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 17:06:01] Client version: no bootstrapper found
+[2025-08-23 17:06:01] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:06:01] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:06:01] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 17:08:29] Client version: no bootstrapper found
+[2025-08-23 17:08:29] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:08:29] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:08:29] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 17:09:30] Client version: no bootstrapper found
+[2025-08-23 17:09:30] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:09:30] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:09:30] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 17:12:02] Client version: no bootstrapper found
+[2025-08-23 17:12:02] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:12:02] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:12:02] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 17:14:39] Client version: no bootstrapper found
+[2025-08-23 17:14:39] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:14:39] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:14:39] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 17:18:42] Client version: no bootstrapper found
+[2025-08-23 17:18:42] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:18:42] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:18:42] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 17:25:04] Client version: no bootstrapper found
+[2025-08-23 17:25:04] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:25:04] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:25:04] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 17:29:08] Client version: no bootstrapper found
+[2025-08-23 17:29:08] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:29:08] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:29:08] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 17:34:05] Client version: no bootstrapper found
+[2025-08-23 17:34:05] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:34:05] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:34:05] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 17:38:26] Client version: no bootstrapper found
+[2025-08-23 17:38:26] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:38:26] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:38:26] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 17:40:30] Client version: no bootstrapper found
+[2025-08-23 17:40:30] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:40:30] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:40:30] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 17:43:53] Client version: no bootstrapper found
+[2025-08-23 17:43:53] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:43:53] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:43:53] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 17:50:53] Client version: no bootstrapper found
+[2025-08-23 17:50:53] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:50:53] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:50:53] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 17:52:11] Client version: no bootstrapper found
+[2025-08-23 17:52:11] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:52:11] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:52:11] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 17:55:45] Client version: no bootstrapper found
+[2025-08-23 17:55:45] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:55:45] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 17:55:45] CAppInfoCacheReadFromDiskThread took 1 milliseconds to initialize
+
+
+[2025-08-23 18:03:30] Client version: no bootstrapper found
+[2025-08-23 18:03:30] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 18:03:30] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 18:03:30] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 19:36:05] Client version: no bootstrapper found
+[2025-08-23 19:36:05] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 19:36:05] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 19:36:05] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 19:38:28] Client version: no bootstrapper found
+[2025-08-23 19:38:28] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 19:38:28] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 19:38:28] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 20:12:08] Client version: no bootstrapper found
+[2025-08-23 20:12:08] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 20:12:08] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 20:12:08] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 20:21:10] Client version: no bootstrapper found
+[2025-08-23 20:21:10] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 20:21:10] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 20:21:10] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 20:23:03] Client version: no bootstrapper found
+[2025-08-23 20:23:03] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 20:23:03] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 20:23:03] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 20:28:23] Client version: no bootstrapper found
+[2025-08-23 20:28:23] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 20:28:23] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 20:28:23] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 20:31:56] Client version: no bootstrapper found
+[2025-08-23 20:31:56] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 20:31:56] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 20:31:56] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 20:34:36] Client version: no bootstrapper found
+[2025-08-23 20:34:36] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 20:34:36] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 20:34:36] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 21:04:40] Client version: no bootstrapper found
+[2025-08-23 21:04:40] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 21:04:40] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 21:04:40] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 21:08:34] Client version: no bootstrapper found
+[2025-08-23 21:08:34] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 21:08:34] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 21:08:34] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 21:13:07] Client version: no bootstrapper found
+[2025-08-23 21:13:07] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 21:13:07] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 21:13:07] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 21:13:51] Client version: no bootstrapper found
+[2025-08-23 21:13:51] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 21:13:51] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 21:13:51] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 21:16:40] Client version: no bootstrapper found
+[2025-08-23 21:16:40] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 21:16:40] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 21:16:40] CAppInfoCacheReadFromDiskThread took 1 milliseconds to initialize
+
+
+[2025-08-23 21:18:09] Client version: no bootstrapper found
+[2025-08-23 21:18:09] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 21:18:09] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 21:18:09] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 21:22:46] Client version: no bootstrapper found
+[2025-08-23 21:22:46] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 21:22:46] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 21:22:46] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-23 21:32:29] Client version: no bootstrapper found
+[2025-08-23 21:32:29] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 21:32:29] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-23 21:32:29] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-24 07:47:22] Client version: no bootstrapper found
+[2025-08-24 07:47:22] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 07:47:22] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 07:47:22] CAppInfoCacheReadFromDiskThread took 22 milliseconds to initialize
+
+
+[2025-08-24 07:54:39] Client version: no bootstrapper found
+[2025-08-24 07:54:39] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 07:54:39] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 07:54:39] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-24 08:01:57] Client version: no bootstrapper found
+[2025-08-24 08:01:57] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 08:01:57] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 08:01:57] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-24 08:10:40] Client version: no bootstrapper found
+[2025-08-24 08:10:40] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 08:10:40] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 08:10:40] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-24 09:03:56] Client version: no bootstrapper found
+[2025-08-24 09:03:56] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 09:03:56] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 09:03:56] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-24 09:29:54] Client version: no bootstrapper found
+[2025-08-24 09:29:54] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 09:29:54] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 09:29:54] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-24 10:48:22] Client version: no bootstrapper found
+[2025-08-24 10:48:22] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 10:48:22] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 10:48:22] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-24 10:49:50] Client version: no bootstrapper found
+[2025-08-24 10:49:50] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 10:49:50] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 10:49:50] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-24 11:08:22] Client version: no bootstrapper found
+[2025-08-24 11:08:22] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 11:08:22] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 11:08:22] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-24 11:09:03] Client version: no bootstrapper found
+[2025-08-24 11:09:03] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 11:09:03] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 11:09:03] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-24 11:34:56] Client version: no bootstrapper found
+[2025-08-24 11:34:56] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 11:34:56] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 11:34:56] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-24 11:42:41] Client version: no bootstrapper found
+[2025-08-24 11:42:41] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 11:42:41] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 11:42:41] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-24 12:28:15] Client version: no bootstrapper found
+[2025-08-24 12:28:15] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 12:28:15] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 12:28:15] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-24 12:59:41] Client version: no bootstrapper found
+[2025-08-24 12:59:41] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 12:59:41] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 12:59:41] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-24 13:36:37] Client version: no bootstrapper found
+[2025-08-24 13:36:37] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 13:36:37] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 13:36:37] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-24 14:00:36] Client version: no bootstrapper found
+[2025-08-24 14:00:36] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 14:00:36] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 14:00:36] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-24 15:12:47] Client version: no bootstrapper found
+[2025-08-24 15:12:47] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 15:12:47] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 15:12:47] CAppInfoCacheReadFromDiskThread took 1 milliseconds to initialize
+
+
+[2025-08-24 19:34:44] Client version: no bootstrapper found
+[2025-08-24 19:34:44] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 19:34:44] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 19:34:44] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-24 19:40:53] Client version: no bootstrapper found
+[2025-08-24 19:40:53] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 19:40:53] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 19:40:53] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-24 19:43:16] Client version: no bootstrapper found
+[2025-08-24 19:43:16] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 19:43:16] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 19:43:16] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-24 19:53:51] Client version: no bootstrapper found
+[2025-08-24 19:53:51] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 19:53:51] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 19:53:51] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-24 19:55:41] Client version: no bootstrapper found
+[2025-08-24 19:55:41] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 19:55:41] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 19:55:41] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-24 19:57:00] Client version: no bootstrapper found
+[2025-08-24 19:57:00] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 19:57:00] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 19:57:00] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-24 20:12:22] Client version: no bootstrapper found
+[2025-08-24 20:12:22] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 20:12:22] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 20:12:22] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-24 20:26:01] Client version: no bootstrapper found
+[2025-08-24 20:26:01] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 20:26:01] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 20:26:01] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-24 22:25:52] Client version: no bootstrapper found
+[2025-08-24 22:25:52] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 22:25:52] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 22:25:52] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-24 22:28:58] Client version: no bootstrapper found
+[2025-08-24 22:28:58] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 22:28:58] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 22:28:58] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-24 22:32:33] Client version: no bootstrapper found
+[2025-08-24 22:32:33] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 22:32:33] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 22:32:33] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-24 22:37:43] Client version: no bootstrapper found
+[2025-08-24 22:37:43] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 22:37:43] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 22:37:43] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-24 22:42:50] Client version: no bootstrapper found
+[2025-08-24 22:42:50] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 22:42:50] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-24 22:42:50] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-25 12:45:02] Client version: no bootstrapper found
+[2025-08-25 12:45:02] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-25 12:45:02] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-25 12:45:02] CAppInfoCacheReadFromDiskThread took 31 milliseconds to initialize
+
+
+[2025-08-25 12:46:45] Client version: no bootstrapper found
+[2025-08-25 12:46:45] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-25 12:46:45] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-25 12:46:45] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-25 12:49:21] Client version: no bootstrapper found
+[2025-08-25 12:49:21] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-25 12:49:21] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-25 12:49:21] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-25 14:12:39] Client version: no bootstrapper found
+[2025-08-25 14:12:39] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-25 14:12:39] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-25 14:12:39] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-25 15:00:41] Client version: no bootstrapper found
+[2025-08-25 15:00:41] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-25 15:00:41] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-25 15:00:41] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-25 20:50:24] Client version: no bootstrapper found
+[2025-08-25 20:50:24] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-25 20:50:24] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-25 20:50:24] CAppInfoCacheReadFromDiskThread took 1 milliseconds to initialize
+
+
+[2025-08-25 21:29:02] Client version: no bootstrapper found
+[2025-08-25 21:29:02] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-25 21:29:02] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-25 21:29:02] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-25 21:39:30] Client version: no bootstrapper found
+[2025-08-25 21:39:30] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-25 21:39:30] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-25 21:39:30] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-25 21:46:42] Client version: no bootstrapper found
+[2025-08-25 21:46:42] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-25 21:46:42] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-25 21:46:42] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-25 21:53:53] Client version: no bootstrapper found
+[2025-08-25 21:53:53] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-25 21:53:53] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-25 21:53:53] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-26 10:06:32] Client version: no bootstrapper found
+[2025-08-26 10:06:32] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-26 10:06:32] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-26 10:06:32] CAppInfoCacheReadFromDiskThread took 48 milliseconds to initialize
+
+
+[2025-08-26 10:12:09] Client version: no bootstrapper found
+[2025-08-26 10:12:09] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-26 10:12:09] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-26 10:12:09] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-26 10:15:59] Client version: no bootstrapper found
+[2025-08-26 10:15:59] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-26 10:15:59] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-26 10:15:59] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-26 10:18:36] Client version: no bootstrapper found
+[2025-08-26 10:18:36] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-26 10:18:36] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-26 10:18:36] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-26 10:49:23] Client version: no bootstrapper found
+[2025-08-26 10:49:23] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-26 10:49:23] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-26 10:49:23] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-26 10:50:08] Client version: no bootstrapper found
+[2025-08-26 10:50:08] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-26 10:50:08] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-26 10:50:08] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-26 10:51:18] Client version: no bootstrapper found
+[2025-08-26 10:51:18] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-26 10:51:18] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-26 10:51:18] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-26 10:53:09] Client version: no bootstrapper found
+[2025-08-26 10:53:09] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-26 10:53:09] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-26 10:53:09] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-26 10:54:51] Client version: no bootstrapper found
+[2025-08-26 10:54:51] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-26 10:54:51] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-26 10:54:51] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-26 12:33:42] Client version: no bootstrapper found
+[2025-08-26 12:33:42] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-26 12:33:42] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-26 12:33:42] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-26 12:39:57] Client version: no bootstrapper found
+[2025-08-26 12:39:57] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-26 12:39:57] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-26 12:39:57] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-26 16:12:29] Client version: no bootstrapper found
+[2025-08-26 16:12:29] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-26 16:12:29] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-26 16:12:29] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-26 16:32:28] Client version: no bootstrapper found
+[2025-08-26 16:32:28] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-26 16:32:28] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-26 16:32:28] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-27 10:24:14] Client version: no bootstrapper found
+[2025-08-27 10:24:14] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 10:24:14] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 10:24:14] CAppInfoCacheReadFromDiskThread took 1 milliseconds to initialize
+
+
+[2025-08-27 10:26:59] Client version: no bootstrapper found
+[2025-08-27 10:26:59] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 10:26:59] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 10:26:59] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-27 10:36:26] Client version: no bootstrapper found
+[2025-08-27 10:36:26] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 10:36:26] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 10:36:26] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-27 10:38:17] Client version: no bootstrapper found
+[2025-08-27 10:38:17] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 10:38:17] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 10:38:17] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-27 10:46:11] Client version: no bootstrapper found
+[2025-08-27 10:46:11] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 10:46:11] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 10:46:11] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-27 10:48:52] Client version: no bootstrapper found
+[2025-08-27 10:48:52] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 10:48:52] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 10:48:52] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-27 10:57:43] Client version: no bootstrapper found
+[2025-08-27 10:57:43] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 10:57:43] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 10:57:43] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-27 11:33:29] Client version: no bootstrapper found
+[2025-08-27 11:33:29] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 11:33:29] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 11:33:29] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-27 13:14:40] Client version: no bootstrapper found
+[2025-08-27 13:14:40] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 13:14:40] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 13:14:40] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-27 13:18:21] Client version: no bootstrapper found
+[2025-08-27 13:18:21] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 13:18:21] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 13:18:21] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-27 13:27:21] Client version: no bootstrapper found
+[2025-08-27 13:27:21] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 13:27:21] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 13:27:21] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-27 13:38:51] Client version: no bootstrapper found
+[2025-08-27 13:38:51] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 13:38:51] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 13:38:51] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-27 13:43:13] Client version: no bootstrapper found
+[2025-08-27 13:43:13] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 13:43:13] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 13:43:13] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-27 13:46:38] Client version: no bootstrapper found
+[2025-08-27 13:46:38] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 13:46:38] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 13:46:38] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-27 13:49:39] Client version: no bootstrapper found
+[2025-08-27 13:49:39] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 13:49:39] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 13:49:39] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-27 14:09:18] Client version: no bootstrapper found
+[2025-08-27 14:09:18] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 14:09:18] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 14:09:18] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-27 14:12:22] Client version: no bootstrapper found
+[2025-08-27 14:12:22] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 14:12:22] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 14:12:22] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-27 14:59:08] Client version: no bootstrapper found
+[2025-08-27 14:59:08] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 14:59:08] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 14:59:08] CAppInfoCacheReadFromDiskThread took 32 milliseconds to initialize
+
+
+[2025-08-27 16:28:00] Client version: no bootstrapper found
+[2025-08-27 16:28:00] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 16:28:00] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 16:28:00] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-27 16:29:15] Client version: no bootstrapper found
+[2025-08-27 16:29:15] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 16:29:15] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 16:29:15] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-27 22:26:43] Client version: no bootstrapper found
+[2025-08-27 22:26:43] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 22:26:43] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 22:26:43] CAppInfoCacheReadFromDiskThread took 41 milliseconds to initialize
+
+
+[2025-08-27 22:51:12] Client version: no bootstrapper found
+[2025-08-27 22:51:12] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 22:51:12] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 22:51:12] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-27 22:53:45] Client version: no bootstrapper found
+[2025-08-27 22:53:45] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 22:53:45] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 22:53:45] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-27 22:58:02] Client version: no bootstrapper found
+[2025-08-27 22:58:02] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 22:58:02] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 22:58:02] CAppInfoCacheReadFromDiskThread took 19 milliseconds to initialize
+
+
+[2025-08-27 23:06:05] Client version: no bootstrapper found
+[2025-08-27 23:06:05] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 23:06:05] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-27 23:06:05] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-28 10:14:49] Client version: no bootstrapper found
+[2025-08-28 10:14:49] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-28 10:14:49] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-28 10:14:49] CAppInfoCacheReadFromDiskThread took 31 milliseconds to initialize
+
+
+[2025-08-28 10:21:43] Client version: no bootstrapper found
+[2025-08-28 10:21:43] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-28 10:21:43] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-28 10:21:43] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-28 10:31:20] Client version: no bootstrapper found
+[2025-08-28 10:31:20] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-28 10:31:20] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-28 10:31:20] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-28 11:11:56] Client version: no bootstrapper found
+[2025-08-28 11:11:56] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-28 11:11:56] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-28 11:11:56] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-28 11:17:14] Client version: no bootstrapper found
+[2025-08-28 11:17:14] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-28 11:17:14] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-28 11:17:14] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-28 11:19:33] Client version: no bootstrapper found
+[2025-08-28 11:19:33] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-28 11:19:33] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-28 11:19:33] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-28 11:40:19] Client version: no bootstrapper found
+[2025-08-28 11:40:19] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-28 11:40:19] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-28 11:40:19] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-28 15:14:32] Client version: no bootstrapper found
+[2025-08-28 15:14:32] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-28 15:14:32] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-28 15:14:32] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-28 15:23:17] Client version: no bootstrapper found
+[2025-08-28 15:23:17] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-28 15:23:17] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-28 15:23:17] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-08-28 21:42:23] Client version: no bootstrapper found
+[2025-08-28 21:42:23] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-28 21:42:23] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-08-28 21:42:23] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-09-07 12:16:51] Client version: no bootstrapper found
+[2025-09-07 12:16:51] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-09-07 12:16:51] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-09-07 12:16:51] CAppInfoCacheReadFromDiskThread took 45 milliseconds to initialize
+
+
+[2025-09-07 14:27:04] Client version: no bootstrapper found
+[2025-09-07 14:27:04] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-09-07 14:27:04] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-09-07 14:27:04] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-09-07 14:28:38] Client version: no bootstrapper found
+[2025-09-07 14:28:38] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-09-07 14:28:38] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-09-07 14:28:38] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-09-13 19:41:02] Client version: no bootstrapper found
+[2025-09-13 19:41:02] ThreadedReadFromDisk: loading appinfo cache from: C:\Server/appcache/appinfo.vdf
+[2025-09-13 19:41:02] ThreadedReadFromDisk: failed to open file: C:\Server/appcache/appinfo.vdf
+[2025-09-13 19:41:02] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-09-13 19:42:27] Client version: no bootstrapper found
+[2025-09-13 19:42:27] ThreadedReadFromDisk: loading appinfo cache from: C:\Server/appcache/appinfo.vdf
+[2025-09-13 19:42:27] ThreadedReadFromDisk: failed to open file: C:\Server/appcache/appinfo.vdf
+[2025-09-13 19:42:27] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-09-13 19:43:21] Client version: no bootstrapper found
+[2025-09-13 19:43:21] ThreadedReadFromDisk: loading appinfo cache from: C:\Server/appcache/appinfo.vdf
+[2025-09-13 19:43:21] ThreadedReadFromDisk: failed to open file: C:\Server/appcache/appinfo.vdf
+[2025-09-13 19:43:21] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-09-13 19:44:31] Client version: no bootstrapper found
+[2025-09-13 19:44:31] ThreadedReadFromDisk: loading appinfo cache from: C:\Server/appcache/appinfo.vdf
+[2025-09-13 19:44:31] ThreadedReadFromDisk: failed to open file: C:\Server/appcache/appinfo.vdf
+[2025-09-13 19:44:31] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-09-13 19:45:02] Client version: no bootstrapper found
+[2025-09-13 19:45:02] ThreadedReadFromDisk: loading appinfo cache from: C:\Server/appcache/appinfo.vdf
+[2025-09-13 19:45:02] ThreadedReadFromDisk: failed to open file: C:\Server/appcache/appinfo.vdf
+[2025-09-13 19:45:02] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-09-13 19:46:51] Client version: no bootstrapper found
+[2025-09-13 19:46:51] ThreadedReadFromDisk: loading appinfo cache from: C:\Server/appcache/appinfo.vdf
+[2025-09-13 19:46:51] ThreadedReadFromDisk: failed to open file: C:\Server/appcache/appinfo.vdf
+[2025-09-13 19:46:51] CAppInfoCacheReadFromDiskThread took 1 milliseconds to initialize
+
+
+[2025-09-13 19:52:14] Client version: no bootstrapper found
+[2025-09-13 19:52:14] ThreadedReadFromDisk: loading appinfo cache from: C:\Server/appcache/appinfo.vdf
+[2025-09-13 19:52:14] ThreadedReadFromDisk: failed to open file: C:\Server/appcache/appinfo.vdf
+[2025-09-13 19:52:14] CAppInfoCacheReadFromDiskThread took 2 milliseconds to initialize
+
+
+[2025-09-13 19:53:57] Client version: no bootstrapper found
+[2025-09-13 19:53:57] ThreadedReadFromDisk: loading appinfo cache from: C:\Server/appcache/appinfo.vdf
+[2025-09-13 19:53:57] ThreadedReadFromDisk: failed to open file: C:\Server/appcache/appinfo.vdf
+[2025-09-13 19:53:57] CAppInfoCacheReadFromDiskThread took 1 milliseconds to initialize
+
+
+[2025-09-13 23:23:04] Client version: no bootstrapper found
+[2025-09-13 23:23:04] ThreadedReadFromDisk: loading appinfo cache from: C:\Server/appcache/appinfo.vdf
+[2025-09-13 23:23:04] ThreadedReadFromDisk: failed to open file: C:\Server/appcache/appinfo.vdf
+[2025-09-13 23:23:04] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-09-14 14:56:02] Client version: no bootstrapper found
+[2025-09-14 14:56:02] ThreadedReadFromDisk: loading appinfo cache from: C:\Server/appcache/appinfo.vdf
+[2025-09-14 14:56:02] ThreadedReadFromDisk: failed to open file: C:\Server/appcache/appinfo.vdf
+[2025-09-14 14:56:02] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-09-14 14:58:09] Client version: no bootstrapper found
+[2025-09-14 14:58:09] ThreadedReadFromDisk: loading appinfo cache from: C:\Server/appcache/appinfo.vdf
+[2025-09-14 14:58:09] ThreadedReadFromDisk: failed to open file: C:\Server/appcache/appinfo.vdf
+[2025-09-14 14:58:09] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-09-21 14:42:01] Client version: no bootstrapper found
+[2025-09-21 14:42:01] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-09-21 14:42:01] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-09-21 14:42:01] CAppInfoCacheReadFromDiskThread took 1 milliseconds to initialize
+
+
+[2025-09-21 14:50:57] Client version: no bootstrapper found
+[2025-09-21 14:50:57] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-09-21 14:50:57] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-09-21 14:50:57] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-09-21 14:54:14] Client version: no bootstrapper found
+[2025-09-21 14:54:14] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-09-21 14:54:14] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-09-21 14:54:14] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-09-21 14:56:12] Client version: no bootstrapper found
+[2025-09-21 14:56:12] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-09-21 14:56:12] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-09-21 14:56:12] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-09-27 08:03:10] Client version: no bootstrapper found
+[2025-09-27 08:03:10] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-09-27 08:03:10] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-09-27 08:03:10] CAppInfoCacheReadFromDiskThread took 12 milliseconds to initialize
+
+
+[2025-09-27 08:05:53] Client version: no bootstrapper found
+[2025-09-27 08:05:53] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-09-27 08:05:53] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-09-27 08:05:53] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-09-27 08:08:42] Client version: no bootstrapper found
+[2025-09-27 08:08:42] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-09-27 08:08:42] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-09-27 08:08:42] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-09-27 08:11:39] Client version: no bootstrapper found
+[2025-09-27 08:11:39] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-09-27 08:11:39] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-09-27 08:11:39] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-09-27 08:15:30] Client version: no bootstrapper found
+[2025-09-27 08:15:30] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-09-27 08:15:30] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-09-27 08:15:30] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-09-27 08:47:41] Client version: no bootstrapper found
+[2025-09-27 08:47:41] ThreadedReadFromDisk: loading appinfo cache from: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-09-27 08:47:41] ThreadedReadFromDisk: failed to open file: D:\cbmrserver-main\Server/appcache/appinfo.vdf
+[2025-09-27 08:47:41] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
